@@ -1,3 +1,5 @@
 mkdir: Serve para criar um arquivo no terminal
 git status: confere a situação atual daquele arquivo para identificar se houve alguma alteração
 git add: Para adicionar o novo arquivo que estava pedente
+git commit: para criar a pasta para o GitHub (faça isso antes de executar o Git Push)
+git push origin: Puxa o arquivo do repositorio para o GitHub
