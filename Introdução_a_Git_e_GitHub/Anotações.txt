@@ -1,0 +1,3 @@
+mkdir: Serve para criar um arquivo no terminal
+git status: confere a situação atual daquele arquivo para identificar se houve alguma alteração
+git add: Para adicionar o novo arquivo que estava pedente
