@@ -1,5 +1,8 @@
 mkdir: Serve para criar um arquivo no terminal
 git status: confere a situação atual daquele arquivo para identificar se houve alguma alteração
 git add: Para adicionar o novo arquivo que estava pedente
-git commit: para criar a pasta para o GitHub (faça isso antes de executar o Git Push)
+git commit: Registra alterações no repositório (faça isso antes de executar o Git Push)
 git push origin: Puxa o arquivo do repositorio para o GitHub
+git init: Cria um repositorio vazio ou inicializa um existente
+git clone: Clona um repositório existente
+git pull: Baixa e atualiza as alterações feitas de uma repositório remoto para o seu repositório local.
